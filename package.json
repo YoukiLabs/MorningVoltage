@@ -13,6 +13,7 @@
   "author": "Stéphane Labruyère <stephane@slabruyere.net> (http://www.slabruyere.net)",
   "license": "Apache-2.0",
   "devDependencies": {
-    "electron": "^1.4.4"
+    "electron": "^1.4.4",
+    "electron-json-storage": "^2.0.3"
   }
 }
